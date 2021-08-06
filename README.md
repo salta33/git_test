@@ -1,0 +1,1 @@
+This is Salta's first git project
